@@ -116,7 +116,7 @@ const App = () => {
     <div className="prose max-w-none text-gray-800">
       <h2 className="text-2xl font-bold">About Sandeep Kumar</h2>
       <p>
-        I'm Sandeep Kumar, a candidate for the UPSSSC PET exam. I noticed many websites charging for typing practice content and subscriptions.
+        I'm Sandeep Kumar, a candidate for the UPSSSC JA exam. I noticed many websites charging for typing practice content and subscriptions.
         Instead of buying those services, I built this lightweight typing site so anyone can paste topics from the web and start typing instantly.
         It's simple, fast and runs smoothly on low-spec systems — in Hindi we say "aapda me avasar" — turning constraints into opportunities.
         I keep this project personal and continuously improve it based on feedback.
