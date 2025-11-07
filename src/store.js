@@ -38,3 +38,5 @@ const typingSlice = createSlice({
 export const { setMode, setText, setInput, setTime, decrementTime, startTyping, stopTyping, completeTyping, incrementBackspace, setStats, reset } = typingSlice.actions;
 
 export const store = configureStore({ reducer: { typing: typingSlice.reducer } });
+
+export * from './store/index.js';
